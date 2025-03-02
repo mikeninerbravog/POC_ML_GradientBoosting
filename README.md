@@ -34,7 +34,7 @@ pip install numpy pandas matplotlib scikit-learn
 
 ## 📜 Code Implementation
 
-- Check in notebook (Colab): ()
+- Check in notebook (Colab): (https://colab.research.google.com/github/mikeninerbravog/POC_ML_GradientBoosting/blob/master/POC_ML_GradientBoosting.ipynb)
 
 
 ## 📊 Model Performance
